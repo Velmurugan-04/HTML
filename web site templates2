@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+    <style>
+        .a{
+            border:2px solid hidden;
+            height:2220px;
+            width:1450px;
+        }
+        .b{
+            border:2px solid hidden;
+            height:400px;
+            width:1450px;
+            box-shadow:5px 5px 0px 0px;
+            background-size: 100% 100%;
+            color:aliceblue;
+            background-image: linear-gradient(to bottom,rgba(245, 243, 241, 0.255),rgba(72, 71, 71, 0.195)),url(./image/study1.jpg);
+        }
+        .c{
+            border:2px solid hidden;
+            height:80px;
+            width:1450px;
+        }
+        .d{
+            border:2px solid hidden;
+            height:420px;
+            width:1450px;
+            background-image: linear-gradient(to bottom,rgba(59, 58, 58, 0.867),rgba(80, 77, 77, 0.085))
+        }
+        .e{
+            border:2px solid hidden;
+            height:250px;
+            width:640px;
+            float:left;
+            letter-spacing:2px;
+        }
+        .f{
+            border:2px solid hidden;
+            height:400px;
+            width:1450px;
+           
+        }
+        .g{
+            border:2px solid hidden;
+            height:400px;
+            width:721px;
+            float:left;
+            letter-spacing:2px;
+            background-image: url(./image/lap.jpg);
+            background-size: 100% 100%;
+        }
+        .h{
+            border:2px solid hidden;
+            height:400px;
+            width:357px;
+            float:left;
+            letter-spacing:2px;
+            color:bisque;
+            background-color:black;
+        }
+        .j{
+            border:2px solid hidden;
+            height:120px;
+            width:421px;
+            letter-spacing:2px;
+            margin-top:280px;
+            margin-left:300px;
+            background-color: rgb(160, 30, 47);
+        }
+        .k{
+            border:2px solid hidden;
+            height:875px;
+            width:1450px;
+            margin-top:0px;
+        }
+        .l{
+            border:2px solid hidden;
+            height:874px;
+            width:650px;
+            margin-left:40px;
+            float:left;
+            margin-top:40px;
+        }
+        .m{
+            border:2px solid hidden;
+            height:874px;
+            width:690px;
+            margin-left:20px;
+            float:left;
+            margin-top:40px;
+        }
+        .n{
+            border:2px solid hidden;
+            height:405px;
+            width:650px;
+            margin-left:0px;
+            margin-top:30px;
+
+        }
+        .p{
+            border:2px solid hidden;
+            height:120px;
+            width:205px;
+            float:left;
+        }
+        .q{
+            height:10px;
+            width:10px;
+            border-radius:5px;
+            background-color:yellowgreen;
+            margin-top:35px;
+            margin-left:500px;
+            position: absolute;
+            
+        }
+        
+    </style>
+</head>
+<body>
+    <form>
+    <div class="a">
+            <div class="b">
+                <p style="text-align: center;font-size:50px;padding-top:100px;"><b>SARAVANA MUTHUKUMAR</b></p>
+                <p style="text-align: justify;padding-left:450px;">An Aspiring Thinker,Looking For a Challenging Career That will Demand the best of<br>my profesional ability in terms of technical and analytical Skills</p>
+              
+            </div>
+            <div class="c">
+                <div class="q"></div>
+                <p style="float:left;color:red;font-size: 20px;padding-left:80px;padding-top: 10px;"><b>Named Force</b></p>
+                <p style="float:left;color:black;font-size: 20px;padding-left:240px;padding-top: 10px;"><b>Home</b></p>
+                <p style="float:left;color:black;font-size: 20px;padding-left:80px;padding-top: 10px;">Our Studio</p>
+                <p style="float:left;color:black;font-size: 20px;padding-left:80px;padding-top: 10px;">PortFolio</p>
+                <p style="float:left;color:black;font-size: 20px;padding-left:80px;padding-top: 10px;">News & Events</p>
+                <p style="float:left;color:black;font-size: 20px;padding-left:80px;padding-top: 10px;">Contact Us</p>
+            </div>
+            <div class="d">
+                <p style="padding-left:50px;padding-top: 50px;font-size:30px;"><b>Let us Create.....</b></p>
+                <div class="e" style="margin-left:50px;"><p>Have some great ideas, opinions and  One of the best ways to get your thoughts across the globe is by writing an article. There are techniques you can use to write the different types of articles. This piece on article writing will give you all the tips and tricks you need to master before you start writing your article.<br><br>Have some great ideas, opinions and suggestions you wish you could share so that it could reach readers all around the world? One of the best ways to get your thoughts across the globe is by writing an article.</p></div>
+                <div class="e" style="margin-left:50px;"><p>Have some great ideas, opinions and suggestions you wish you could share so that it could reach readers all around the world? One of the best ways to get your thoughts across the globe is by writing an article. There are techniques you can use to write the different types of articles. This piece on article writing will give you all the tips and tricks you need to master before you start writing your article.</p></div>
+            </div>
+            <div class="f">
+                <div class="g">
+                    <div class="h">
+                        <img src="./image/one.jpg" height="100%" width="100%">
+                    </div>
+                    <div class="h">
+                        <p style="padding-left:60px;padding-top:70px;text-align: justify;font-size: 25px;"><b>We're-idealists<br>and stragetic<br>thinkers.</b></p>
+                        <p style="padding-left:60px;">Over six years in the video <br>business</p><br>
+                        <p style="padding-left:60px;font-size: 10px;">Read News & Events<br>work with us.</p>
+                    </div>
+                </div>
+                <div class="g">
+                    <div class="j">
+                        <div class="p">
+                            <p style="padding-left:5px;padding-top:20px;"><b><span style="font-size:16px;color:white;">Velmurgan M.</span></b><br><span style="color:white">Project Management</span></p>
+                        </div>
+                        <div class="p">
+                            <i class="fa fa-caret-square-o-left" style="font-size:36px;margin-left:40px;margin-top:30px;"></i>
+                            
+                            <i class="fa fa-caret-square-o-right" style="font-size:36px;margin-left:40px;margin-top:30px;"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="k">
+                <p style="text-align: center;padding-top:40px;font-size:35px;color: rgb(61, 181, 28);"><b>PortFolio</b></p>
+                <div class="l">
+                    <div class="n" style="background-color: rgb(19, 106, 164);margin-top:0px;">
+                        <img src="./image/three.jpg" style="height:340px;width:585px;margin-top:30px;margin-left:30px;">
+                    </div>
+                    <div class="n">
+                        <p style="padding-left:10px;"><span style="font-size: 25px;"><b>Effortless</b></span><br><br><span style="color:rgb(129, 17, 80)">Branding</span></p>
+                        <img src="./image/nature.jpg" style="height:266px;width:650px;margin-top:40px;">
+                    </div>
+                </div>
+                <div class="m">
+                    <img src="./image/six.jpg" height="96.5%" width="100%" style="margin-top:0px ;">
+                
+                </div>
+            </div>
+    </div>
+   
+    </form>
+</body>
+</html>
