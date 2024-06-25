@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+    <style>
+            .a{
+            border:2px solid hidden;
+            height:1750px;
+            width:1450px;
+            }
+            .b{
+                border:2px solid hidden;
+                height:250px;
+                width:1450px;
+                border-radius: 20px;
+                background-color: blueviolet;
+                color:white;
+            }
+            .c{
+                border:2px solid hidden;
+                height:250px;
+                width:1450px;
+                margin-top: 20px;;
+                border-radius: 20px;
+                background-color:aquamarine;
+
+            }
+            .d{
+                border:2px solid hidden;
+                height: 200px;;
+                width:200px;
+                margin-left:250px;
+                margin-top:25px;
+                float: left;
+            }
+            .e{
+                border:2px solid hidden;
+                height: 100px;;
+                width:650px;
+                margin-left:300px;
+                margin-top:25px;
+                float:left;
+                color: white;
+            }
+            .f{
+                border:2px solid hidden;
+                height: 95px;;
+                width:650px;
+                margin-left:300px;
+                margin-top:20px;
+                float: left;
+                color: white;
+            }
+            .g{
+                border:2px solid hidden;
+                height: 700px;;
+                width:1450px;
+                margin-top:25px;
+                float:left;
+            }
+            .h{
+                border:2px solid hidden;
+                height: 50px;;
+                width:650px;
+                margin-left:790px;
+                margin-top:5px;
+                float:left;
+            }
+            .i{
+                border:2px solid hidden;
+                height:350px;
+                width:1450px;
+                border-radius: 20px;
+                background-color:aquamarine;
+                margin-top:730px;
+                color:white;
+            }
+            .j{
+                border:2px solid hidden;
+                height:350px;
+                width:430px;
+                margin-left:40px;
+                float:left;
+                font-size:20px;;
+            }
+            .k{
+                border:2px solid hidden;
+                height:350px;
+                width:430px;
+                margin-left:40px;
+                float:left;
+                font-size:20px;;
+            }
+            ::placeholder{
+                color: white;
+            }
+    </style>
+</head>
+<body>
+    <form>
+    <div class="a">
+        <div class="b">
+            <p style="font-size:30px;position: absolute;text-align: center;margin-left:670px;margin-top: 90px;">Nano Folio</p>
+            <i class="fa fa-apple" style="font-size:54px;margin-left:700px;margin-top: 20px;"></i>
+        </div>
+        <div class="c">
+            <div class="d"><p></p></div>
+            <div class="e"><p>In 2017, the readers of New York times were calculated to be more than 9 million! The paper’s writers interact with their readers through articles. Keeping this in mind, we can say that articles are an integral part of the written communication world. They can be hidden right under our eyes and we may not know it. Evidently, you’re reading an article.</p></div>
+            <div class="f"><p>As you might’ve guessed, an article addresses its readers. In other words, we write an article to interact with our readers. Hence it should be tailored accordingly for an audience.The paper’s writers interact with their readers through articles. </p></div>
+        </div>
+        <div class="g">
+                <div class="h"><p style="padding-left: 340px;float: left;color: brown;">City</p>
+                                <p style="padding-left: 40px;float: left;color: brown;">Nature</p>
+                                <p style="padding-left: 40px;float: left;color: brown;">Portraits</p>
+                                <p style="padding-left: 40px;float: left;color: blue;">Show All</p>
+                </div>
+                <img src="./image/one.jpg" style="height:170px;width:330px;float:left;margin-top:30px;  border-radius: 20px;">
+                <img src="./image/six.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/three.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px ; border-radius: 20px;;">
+                <img src="./image/five.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/one.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 0px;  border-radius: 20px;">
+                <img src="./image/six.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px ;border-radius: 20px;">
+                <img src="./image/three.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/five.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/one.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 0px;  border-radius: 20px;">
+                <img src="./image/six.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/three.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+                <img src="./image/five.jpg" style="height:170px;width:330px;float:left;margin-top:30px;margin-left: 40px;  border-radius: 20px;">
+        </div>
+        <div class="i">
+            <div class="j">
+            <input type="text" placeholder="Name" style="margin-left:00px;margin-top:40px;border-left: 0px;border-top: 0px;border-right: 0px;width:300px;font-size:20px;background-color:aquamarine;border-bottom: 2px solid white;"><br>
+            <input type="text" placeholder="Name" style="margin-left:00px;margin-top:40px;border-left: 0px;border-top: 0px;border-right: 0px;width:300px;font-size:20px;background-color: aquamarine;border-bottom: 2px solid white;"><br><br>
+            <textarea name="text" placeholder="message" style="width:300px;height:80px;border-left:0px;border-right: 0px;border-top: 0px;margin-left:00px;font-size:20px;background-color: aquamarine;border-bottom: 2px solid white;
+            "></textarea><br>
+            <button type="submit" style="width:100px;height:80px;border-left:0px;border-right: 0px;border-top: 0px;border-bottom:0px;margin-left:00px;font-size:20px;margin-left: 200px;background-color: aquamarine;">send</button>
+            </div>
+            <div class="j">
+                <p style="text-align:justify;padding-top:40px;white-space:30px;letter-spacing:2px;padding-left:50px;">120 Curabitur sed torter ultrices,<br>congue odio oui get thonus urna,<br>praesent at rhoncus 10609.<br><br>Tel:890456378</p>
+                <i class="fa fa-instagram" style="font-size:34px;margin-left:130px;margin-top: 20px;"></i>
+                <i class="fa fa-facebook" style="font-size:34px;margin-left:20px;margin-top: 0px;"></i>
+                <i class="fa fa-dropbox" style="font-size:34px;margin-left:20px;"></i>
+            </div>
+            <div class="k">
+                <i class="fa fa-dropbox" style="font-size:34px;margin-left:195px;margin-top:100px;"></i>
+                <p style="text-align: center;">contacts</p>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
