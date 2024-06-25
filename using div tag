@@ -1,0 +1,159 @@
+<html>
+	<head>
+		<title></title>
+		<style>
+			.a{
+				border:2px hidden;
+				height:490px;
+				width:698px;
+				background-color:orange;
+			}
+			.b{
+				border:2px hidden;
+				height:40px;
+				width:698px;
+				margin-top:0px;
+				margin-bottom:0px;
+			}
+			.d{
+				border:2px hidden;
+				height:400px;
+				width:697px;
+				margin-top:0px;
+				margin-left:0px;
+				margin-bottom:0px;
+				background-color:yellow;
+			}
+			.c{
+				border:2px hidden;
+				height:200px;
+				width:36.7px;
+				padding-top:200px;
+				float:left;
+				background-color:orange
+				
+			}
+			.e{
+				border:2px hidden;
+				height:400px;
+				width:620px;
+				padding-top:0px;
+				float:left;
+				margin-left:0px;
+				background-color:;
+				margin-right:0px
+			}
+			.f{
+				border:2px hidden;
+				height:30px;
+				width:620x;
+				margin-top:0px;
+				padding-top:0px;
+			}
+			.g{
+				border:1px hidden;
+				height:320px;
+				width:620px;
+			}
+			.h{
+				border:1px hidden;
+				height:320px;	
+				width:40px;
+				float:left;
+				margin-left:5px;
+			}
+			.i{
+				border:1px hidden;
+				height:320px;
+				width:520px;
+				float:left;
+				
+			}
+			.j{
+				border:1px hidden;
+				height:320px;	
+				width:40px;
+				float:left;
+				
+			}
+			.k{
+				border:2px hidden;
+				height:320px;
+				width:413px;
+				float:left;
+				background-color:green;
+			}
+			.l{
+				border:2px hidden;
+				height:320px;
+				width:100px;
+				float:left;
+				background-color:white;
+			}
+			.m{
+				border:2px hidden;
+				height:200px;
+				width:250px;
+				background-color:powderblue;
+			}
+			.n{
+				border:2px hidden;
+				height:100px;
+				width:40px;
+				margin-left:30px;
+				border-radius:10px;
+				background-color:grey;
+				margin-top:10px;
+			}
+			.p{
+				border:2px hidden;
+				height:20px;
+				width:698px;
+				margin-top:0px;
+				margin-bottom:0px;
+			}
+		</style>
+		<body>
+			<div class="a">
+				<div class="b"><p style="margin-top:0px;margin-bottom:0px;">margin</p>
+						<p style="margin-left:290px;padding-top:0px;margin-top:0px;margin-bottom:0px;">20</p>
+				</div>
+				<div class="d">
+					<div class="c"><p>10</p></div>
+					<div class="e">
+						<div class="f">
+							<p style="margin-top:0px;margin-bottom:0px;">border</p>
+							<p style="margin-left:250px;padding-top:0px;margin-top:0px;margin-bottom:0px;">20</p>
+						</div>
+						<div class="g">
+							<div class="h">
+							<p style="padding-top:165px;">20</p>
+							</div>
+							<div class="i">
+								<div class="k">
+									<p style="margin-top:0px;margin-bottom:0px;">margin</p>
+									<p style="margin-left:205px;padding-top:0px;margin-top:0px;margin-bottom:0px;">20</p>
+									<div class="m" style="margin-top:80px;margin-left:80px;">140X70</div>
+								</div>	
+								<div class="l">
+									<div class="n"><p style="padding-left:5px;padding-top:160px;">20</div>	
+								</div>
+							</div>
+							<div class="h">
+								<p style="padding-top:165px;">20</p>
+							</div>
+						</div>
+						<div class="f">
+						
+							<p style="margin-left:250px;padding-top:0px;margin-top:0px;margin-bottom:0px;">20</p>
+						</div>
+				</div>
+					<div class="c"><p>10</p></div>
+				</div>
+					<div class="p">
+						<p style="margin-left:290px;padding-top:0px;margin-top:0px;margin-bottom:0px;">20</p>
+				</div>
+			</div>
+		</body>
+	</head>
+</html>
